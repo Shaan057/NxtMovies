@@ -169,7 +169,7 @@
 
 </details>
 
-### ***Login API***
+### **Login API**
 
 
 #### API: `https://apis.ccbp.in/login`
