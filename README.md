@@ -169,15 +169,16 @@
 
 </details>
 
-**Login API**
+### ***Login API***
+
 
 #### API: `https://apis.ccbp.in/login`
 
-**Trending Now Movies API**
+### **Trending Now Movies API**
 
 #### API: `https://apis.ccbp.in/movies-app/trending-movies`
 
-**Top Rated Movies API**
+### **Top Rated Movies API**
 
 #### API: `https://apis.ccbp.in/movies-app/top-rated-movies`
 
@@ -187,7 +188,7 @@
 
 #### API: `https://apis.ccbp.in/movies-app/movies/{movieId}`
 
-**Search Movies API**
+### **Search Movies API**
 
 #### API: `https://apis.ccbp.in/movies-app/movies-search?search={searchText}`
 
