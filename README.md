@@ -58,10 +58,10 @@
 - Start up the app using `npm start`
 </details>
 
-### Completion Instructions
+### Functionality
 
 <details>
-<summary>Functionality</summary>
+<summary>Click to view</summary>
 <br/>
 
 - **Login Route**
